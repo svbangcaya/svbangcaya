@@ -10,7 +10,7 @@
 
 ***
 
-<h3> My Digital Garden 🌱 </h3>
+<h3> My Digital Garden </h3>
 
 * Rookie.
 
@@ -26,7 +26,7 @@
 
 * *2022 Quote*: Be patient with yourself. Nothing in nature blooms all year.
 
-<h3> Lately 💞️ </h3>
+<h3> Lately </h3>
 
 Started to be interested on graphic designing. I enjoy doing it and got addicted on pouring my creative mind on these outputs.  
 
