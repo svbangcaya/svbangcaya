@@ -1,39 +1,37 @@
-</h2><img src="https://user-images.githubusercontent.com/90847526/154279380-76f1e148-8fb6-4551-8a7a-da083742fcde.gif" width="700"></h2>
-
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90847526/154283777-a42c5446-c156-45f1-8f65-cebf4102dfd2.gif" width="400"/>
 
-<h2> Hey! 👋
+# Hey there! 👋
 
-<h3> I'm Samantha Bangcaya </h3>
+## I'm Samantha Bangcaya
 
-*Currently*: 1st year student of BS Computer Science at West Visayas State University at IloIlo City.
+🎓 3rd-year BS Computer Science student at West Visayas State University in Iloilo City.
 
-***
+---
 
-<h3> My Digital Garden </h3>
+## My Digital Garden 🌱
 
-* Rookie.
+- 🎨 Passionate about all things related to the arts.
+- 💭 A daydreamer by nature; I believe in chasing dreams.
+- ✒️ Calligraphy enthusiast.
+- 🏃‍♀️ An athlete with a focus on running and throwing events.
 
-* Love anything that is related to arts.
+I'm currently in the process of expanding my knowledge in the field of Computer Science.
 
-* Doing calligraphy.
+I love sharing my thoughts and insights on topics I'm familiar with and things I'm learning. As the saying goes:
 
-* I am also an athlete. My mains are running, and throwing events.
+> "Be patient with yourself. Nothing in nature blooms all year." 🌸
 
-* Currently on the stage of learning and earning new knowledge on my course (BSCS).
+---
 
-* I write about things I am familiar with and things that I am learning.
+## Lately 🎨
 
-* *2022 Quote*: Be patient with yourself. Nothing in nature blooms all year.
+Lately, I've developed a keen interest in graphic design. I find immense joy in expressing my creativity through visuals and have become addicted to bringing my imaginative ideas to life.
 
-<h3> Lately </h3>
+---
 
-Started to be interested on graphic designing. I enjoy doing it and got addicted on pouring my creative mind on these outputs.  
+## 📫 How to Reach Me 📧
 
-<h3>📫 How to reach me <h3>
-
-[samantha.bangcaya@wvsu.edu.phs]
-
+You can reach out to me via email at [samantha.bangcaya@wvsu.edu.ph](mailto:samantha.bangcaya@wvsu.edu.ph).
 
 <!---
 svbangcaya/svbangcaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
