@@ -1,4 +1,4 @@
-# Mabuhay! I'm Samantha V. Bangcaya 👋
+# _Mabuhay!_ I'm Samantha V. Bangcaya 👋
 
 ## About Me
 
@@ -6,15 +6,15 @@ You can call me Sam for short. I am a passionate developer and student at [West 
 
 - 📚 **Currently studying:** Bachelor of Science in Computer Science major in AI at West Visayas State University
 - 💻 **Skills:** HTML, CSS, C++, Python, JavaScript, Machine Learning
-- 🌱 **Currently working on:** .[FeasTapp](https://github.com/svbangcaya/FeasTapp1)
+- 🌱 **Currently:** [working on our paper](https://github.com/svbangcaya/FeasTapp1)
 - ⚡ **Hobbies:** eating, admiring fictional men, and 24/7 listening to music.
 
 - 🌀 **Facts about me:** 
   - A big fan of music, I listen 24/7 with my wired earphones.
-  - Creative Soul:** Always amazed if surrounded by creativity and arts.
+  - Always amazed if surrounded by creativity and arts.
   - Craving for peace of mind and contentment.
 
-## My Projects
+## Projects
 
 | Project | Description |
 |---------|-------------|
@@ -26,20 +26,23 @@ You can call me Sam for short. I am a passionate developer and student at [West 
 ## Languages and Tools
 
 <p align="left"> 
-  <a href="https://www.cplusplus.com/" target="_blank"> 
+  <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org/" target="_blank"> 
+  </a>
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/> 
   </a>
-  <a href="https://www.figma.com/" target="_blank"> 
+  <a href="https://www.figma.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> 
   </a>
-  <a href="https://spline.design/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spline_logo.png" alt="Spline" width="40" height="40"/> 
+  <a href="https://spline.design/" target="_blank">
+    <img src="https://spline.design/images/logo.svg" alt="Spline" width="40" height="40"/> 
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Canva_Logo.png" alt="Canva" width="40" height="40"/> 
   </a>
 </p>
 
@@ -56,4 +59,4 @@ You can call me Sam for short. I am a passionate developer and student at [West 
 
 ---
 
-**Maraming salamat for visiting my profile! Feel free to reach out or collaborate on projects. Let’s create something amazing together!**
+**_Maraming salamat_ for visiting my profile! Feel free to reach out or collaborate on projects. Let’s create something amazing together!** 🌟
