@@ -1,39 +1,58 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90847526/154283777-a42c5446-c156-45f1-8f65-cebf4102dfd2.gif" width="400"/>
+# Hi, I'm Samantha V. Bangcaya 👋
 
-# Hey there! 👋
+## About Me
 
-## I'm Samantha Bangcaya
+I am a passionate developer and student at [West Visayas State University](https://www.wvsu.edu.ph/) with a keen interest in web development, web designing, graphic designing, UI/UX, and artificial intelligence.
 
-🎓 3rd-year BS Computer Science student at West Visayas State University in Iloilo City.
+- 📚 **Currently studying:** Bachelor of Science in Computer Science major in AI at West Visayas State University
+- 💻 **Skills:** Python, JavaScript, HTML, CSS, Flask, Machine Learning
+- 🌱 **Currently learning:** Advanced Machine Learning, Natural Language Processing
+- ⚡ **Hobbies:** Coding, Reading, Gaming, Volunteering
+
+## My Projects
+
+### [FeasTapp](https://github.com/yourusername/FeasTapp)
+An innovative web application that scans ingredients on a table and uses generative AI to recommend dishes. Combines object detection for ingredient identification with the Gemini model for recipe recommendations.
+
+### [Concentro](https://github.com/yourusername/Concentro)
+A productivity app designed to help with focus by blocking distractions. Features include a focus timer, distraction blocker, and more.
+
+### [WALL-Eats](https://github.com/yourusername/WALL-Eats)
+A recipe recommendation chatbot that uses NLP methods and the Gemini model for enhanced recommendations. Allows users to choose a cuisine, input ingredients, and receive detailed dish suggestions.
+
+### [Lyrics×Hunter](https://github.com/yourusername/LyricsHunter)
+An app that helps users find song lyrics efficiently, integrating various APIs for comprehensive search results.
+
+## Programming Languages 📚
+
+This is a list of programming languages I have experience with and am continuously learning.
+
+| ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) | **Language** | **Status**   | **Description**                                                                                 |
+|--------------------------------------------------------------|--------------|--------------|-------------------------------------------------------------------------------------------------|
+| ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg) | C++          | Learning     | A powerful general-purpose programming language used for system/software development and game programming. |
+| ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)   | Python       | Intermediate | A versatile language known for its simplicity and readability, widely used in data science, web development, and automation.  |
+| ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)  | JavaScript   | Learning     | A popular language for web development, known for adding interactivity to web pages.                              |
+
+## Get in Touch
+
+- 📧 **Email:** samantha.bangcaya@example.com
+- 🐦 **Twitter:** [@SamanthaBangcaya](https://twitter.com/SamanthaBangcaya)
+- 📄 **LinkedIn:** [Samantha Bangcaya](https://linkedin.com/in/samantha-bangcaya)
+- 🌐 **Website/Blog:** [Samantha's Tech Blog](https://samanthatechblog.com)
+
+## GitHub Stats
+
+![Samantha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## Recent Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Integrate Machine Learning into Your Web Apps](https://samanthatechblog.com/ml-web-apps)
+- [Top 10 Python Libraries for Data Science](https://samanthatechblog.com/top-python-libraries)
+- [Getting Started with Flask for Web Development](https://samanthatechblog.com/flask-web-dev)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## My Digital Garden 🌱
-
-- 🎨 Passionate about all things related to the arts.
-- 💭 A daydreamer by nature; I believe in chasing dreams.
-- ✒️ Calligraphy enthusiast.
-- 🏃‍♀️ An athlete with a focus on running and throwing events.
-
-I'm currently in the process of expanding my knowledge in the field of Computer Science.
-
-I love sharing my thoughts and insights on topics I'm familiar with and things I'm learning. As the saying goes:
-
-> "Be patient with yourself. Nothing in nature blooms all year." 🌸
-
----
-
-## Lately 🎨
-
-Lately, I've developed a keen interest in graphic design. I find immense joy in expressing my creativity through visuals and have become addicted to bringing my imaginative ideas to life.
-
----
-
-## 📫 How to Reach Me 📧
-
-You can reach out to me via email at [samantha.bangcaya@wvsu.edu.ph](mailto:samantha.bangcaya@wvsu.edu.ph).
-
-<!---
-svbangcaya/svbangcaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Thank you for visiting my profile! Feel free to reach out or collaborate on projects. Let's create something amazing together!**
