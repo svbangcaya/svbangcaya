@@ -2,14 +2,16 @@
 
 ## About Me
 
-I am a passionate developer and student at [West Visayas State University](https://www.wvsu.edu.ph/) with a keen interest in web development, web designing, graphic designing, UI/UX, and artificial intelligence.
+You can call me Sam for short. I am a passionate developer and student at [West Visayas State University](https://www.wvsu.edu.ph/) with a keen interest in web development, web designing, graphic designing, UI/UX, and artificial intelligence.
 
-- 📚 **Currently studying:** Bachelor of Science in Computer Science Major in AI
-- 💻 **Skills:** HTML, CSS, Python, JavaScript, Machine Learning
-- 🌱 **Currently learning:** Advanced Machine Learning, Natural Language Processing
+- 📚 **Currently studying:** Bachelor of Science in Computer Science major in AI at West Visayas State University
+- 💻 **Skills:** HTML, CSS, C++, Python, JavaScript, Machine Learning
+- 🌱 **Currently working on:** .[FeasTapp](https://github.com/svbangcaya/FeasTapp1)
+- ⚡ **Hobbies:** eating, admiring fictional men, and 24/7 listening to music.
+
 - 🌀 **Facts about me:** 
   - A big fan of music, I listen 24/7 with my wired earphones.
-  - Always amazed if surrounded by creativity and arts.
+  - Creative Soul:** Always amazed if surrounded by creativity and arts.
   - Craving for peace of mind and contentment.
 
 ## My Projects
@@ -21,29 +23,31 @@ I am a passionate developer and student at [West Visayas State University](https
 | MealMaven | A recipe recommendation chatbot that uses NLP methods and the Gemini model for enhanced recommendations. Allows users to choose a cuisine, input ingredients, and receive detailed dish suggestions. |
 | [Mindful Eating Guide Recommendation](https://mindful-eating-guide-recommendation-h3uwhhjmtswz25dcidah2l.streamlit.app/#mindful-eating-guide-recommendation) | An app designed to provide users with a guide to mindful eating, integrating various recommendations and practices for healthier eating habits. |
 
-## Programming Languages 📚
+## Languages and Tools
 
-List of programming languages I have experience with and am continuously learning.
-
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="20"> | **Language** | **Status**   | **Description**                                                                                 |
-|--------------------------------------------------------------|--------------|--------------|-------------------------------------------------------------------------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="20"> | C++          | Learning     | My first programming language to learn, C++ is a powerful general-purpose programming language used for system/software development and game programming. |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20">   | Python       | Learning     | A versatile language known for its simplicity and readability, widely used in data science, web development, and automation.  |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20">  | JavaScript   | Learning     | A popular language for web development, known for adding interactivity to web pages.                              |
-
-## Tools I Use
-
-List of tools I have experience with and am continuously learning.
-
-| Tool | Purpose | Proficiency |
-|------|---------|-------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20"> Figma | For layout, logo making, wireframes, website and mobile interface design | Intermediate |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spline_logo.png" width="20"> Spline | 3D designs, animation | Learning |                      |
+<p align="left"> 
+  <a href="https://www.cplusplus.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="40" height="40"/>
+  </a> 
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> 
+  </a>
+  <a href="https://spline.design/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spline_logo.png" alt="Spline" width="40" height="40"/> 
+  </a>
+</p>
 
 ## Get in Touch
 
 - 📧 **Email:** samantha.bangcaya09@gmail.com
-- 📘 **Facebook:** [Samantha Bangcaya](https://www.facebook.com/profile.php?id=100071719083338)
+- 📘 **Facebook:** [Samantha V. Bangcaya](https://www.facebook.com/profile.php?id=100071719083338)
+- 💼 **LinkedIn:** [Samantha Bangcaya](https://www.linkedin.com/in/samantha-bangcaya-178805280/)
 
 ## GitHub Stats
 
