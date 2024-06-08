@@ -2,11 +2,11 @@
 
 ## About Me
 
-You can call me Sam for short. I am a passionate developer and student at [West Visayas State University](https://www.wvsu.edu.ph/) with a keen interest in web development, web designing, graphic designing, UI/UX, and artificial intelligence.
+You can call me _Sam_ for short. I am a passionate developer and student at [West Visayas State University](https://www.wvsu.edu.ph/) with a keen interest in web development, web designing, graphic designing, UI/UX, and artificial intelligence.
 
-- 📚 **Currently studying:** Bachelor of Science in Computer Science Major in Artificial Intelligence (AI) at West Visayas State University
-- 💻 **Skills:** HTML, CSS, C++, Python, JavaScript, Machine Learning
-- 🌱 **Currently:** [working on our paper](https://github.com/svbangcaya/FeasTapp1)
+- 📚 **Currently studying:** Bachelor of Science in Computer Science Major in Artificial Intelligence at West Visayas State University
+- 💻 **Skills:** HTML, CSS, C++
+- 🌱 **Currently** [working on our paper](https://github.com/svbangcaya/FeasTapp1)
 - ⚡ **Hobbies:** eating, and admiring fictional men
 
 - 🌀 **Facts about me:** 
@@ -56,6 +56,10 @@ You can call me Sam for short. I am a passionate developer and student at [West 
 
 ![Samantha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svbangcaya&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svbangcaya&layout=compact&theme=radical)
+
+## GitHub Contributions
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=svbangcaya&theme=radical)](https://git.io/streak-stats)
 
 ---
 
