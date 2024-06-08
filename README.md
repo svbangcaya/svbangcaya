@@ -4,14 +4,14 @@
 
 You can call me Sam for short. I am a passionate developer and student at [West Visayas State University](https://www.wvsu.edu.ph/) with a keen interest in web development, web designing, graphic designing, UI/UX, and artificial intelligence.
 
-- 📚 **Currently studying:** Bachelor of Science in Computer Science major in AI at West Visayas State University
+- 📚 **Currently studying:** Bachelor of Science in Computer Science Major in Artificial Intelligence (AI) at West Visayas State University
 - 💻 **Skills:** HTML, CSS, C++, Python, JavaScript, Machine Learning
 - 🌱 **Currently:** [working on our paper](https://github.com/svbangcaya/FeasTapp1)
-- ⚡ **Hobbies:** eating, admiring fictional men, and 24/7 listening to music.
+- ⚡ **Hobbies:** eating, and admiring fictional men
 
 - 🌀 **Facts about me:** 
-  - A big fan of music, I listen 24/7 with my wired earphones.
-  - Always amazed if surrounded by creativity and arts.
+  - A big fan of music and listen 24/7 with my wired earphones.
+  - Amazed when surrounded by creativity and arts.
   - Craving for peace of mind and contentment.
 
 ## Projects
@@ -39,17 +39,17 @@ You can call me Sam for short. I am a passionate developer and student at [West 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> 
   </a>
   <a href="https://spline.design/" target="_blank">
-    <img src="https://spline.design/images/logo.svg" alt="Spline" width="40" height="40"/> 
+    <img src="https://res.cloudinary.com/sympledesign/image/upload/v1620846120/spline_h9yzhu.png" alt="Spline" width="40" height="40"/> 
   </a>
   <a href="https://www.canva.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Canva_Logo.png" alt="Canva" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canva_logo.svg" alt="Canva" width="40" height="40"/> 
   </a>
 </p>
 
 ## Get in Touch
 
 - 📧 **Email:** samantha.bangcaya09@gmail.com
-- 📘 **Facebook:** [Samantha V. Bangcaya](https://www.facebook.com/profile.php?id=100071719083338)
+- 📘 **Facebook:** [Samantha Bangcaya](https://www.facebook.com/profile.php?id=100071719083338)
 - 💼 **LinkedIn:** [Samantha Bangcaya](https://www.linkedin.com/in/samantha-bangcaya-178805280/)
 
 ## GitHub Stats
