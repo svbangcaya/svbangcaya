@@ -39,10 +39,10 @@ You can call me Sam for short. I am a passionate developer and student at [West 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> 
   </a>
   <a href="https://spline.design/" target="_blank">
-    <img src="https://res.cloudinary.com/sympledesign/image/upload/v1620846120/spline_h9yzhu.png" alt="Spline" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Spline_Logo.svg" alt="Spline" width="40" height="40"/> 
   </a>
   <a href="https://www.canva.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canva_logo.svg" alt="Canva" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Canva_Logo.svg" alt="Canva" width="40" height="40"/> 
   </a>
 </p>
 
