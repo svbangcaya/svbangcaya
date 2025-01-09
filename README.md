@@ -4,10 +4,10 @@
 Hi there! I'm **Sam**, a passionate developer and student pursuing a Bachelor of Science in Computer Science _(Major in Artificial Intelligence)_ at [West Visayas State University](https://www.wvsu.edu.ph/). I’m enthusiastic about web development, design, UI/UX, and exploring the exciting world of artificial intelligence.
 
 ### Quick Facts  
-- 💻 **Skills:** Python, C++, HTML, CSS,
+- 💻 **Skills:** Python, C++, HTML, CSS
 - 🌱 **Current Project:** [FeasTapp](https://github.com/svbangcaya/FeasTapp1)
 - 🏃‍♀️ **Sports Outside Tech:**  Track and Field (100m and 200m dash), Discuss Throw, Taekwondo, Softball  
-- 🎵 **Hobbies:** Listening to music (all day, every day) 🎧, admiring art, and enjoying peace of mind.  
+- 🎵 **Hobbies:** Listening to music (all day, every day) 🎧, admiring art, and getting lost in fictional stories.  
 - 🎨 **Creative Spark:** Thrives in creative and artistic environments.
 
 ---
