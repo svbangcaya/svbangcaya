@@ -1,14 +1,14 @@
 # 🌟 _Mabuhay!_ I'm Samantha V. Bangcaya 👋  
 
 ## About Me  
-Hi there! I'm **Sam**, a passionate developer and student pursuing a Bachelor of Science in _Computer Science (Major in Artificial Intelligence)_ at [West Visayas State University](https://www.wvsu.edu.ph/). I’m enthusiastic about web development, design, UI/UX, and exploring the exciting world of artificial intelligence.
+Hi there! I'm **Sam**, a passionate developer and student pursuing a Bachelor of Science in Computer Science _(Major in Artificial Intelligence)_ at [West Visayas State University](https://www.wvsu.edu.ph/). I’m enthusiastic about web development, design, UI/UX, and exploring the exciting world of artificial intelligence.
 
 ### Quick Facts  
-- 🎓 **Currently Studying:** AI-focused CS at WVSU  
-- 💻 **Skills:** HTML, CSS, C++  
-- 🌱 **Current Project:** [FeasTapp](https://github.com/svbangcaya/FeasTapp1)  
+- 💻 **Skills:** Python, C++, HTML, CSS,
+- 🌱 **Current Project:** [FeasTapp](https://github.com/svbangcaya/FeasTapp1)
+- 🏃‍♀️ **Sports Outside Tech:**  Track and Field (100m and 200m dash), Discuss Throw, Taekwondo, Softball  
 - 🎵 **Hobbies:** Listening to music (all day, every day) 🎧, admiring art, and enjoying peace of mind.  
-- 🎨 **Creative Spark:** Thrives in creative and artistic environments.  
+- 🎨 **Creative Spark:** Thrives in creative and artistic environments.
 
 ---
 
