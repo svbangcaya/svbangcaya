@@ -1,66 +1,63 @@
-# _Mabuhay!_ I'm Samantha V. Bangcaya 👋
+# 🌟 _Mabuhay!_ I'm Samantha V. Bangcaya 👋  
 
-## About Me
+## About Me  
+Hi there! I'm **Sam**, a passionate developer and student pursuing a Bachelor of Science in Computer Science (Major in Artificial Intelligence) at [West Visayas State University](https://www.wvsu.edu.ph/). I’m enthusiastic about web development, design, UI/UX, and exploring the exciting world of artificial intelligence.
 
-You can call me _Sam_ for short. I am a passionate developer and student at [West Visayas State University](https://www.wvsu.edu.ph/) with a keen interest in web development, web designing, graphic designing, UI/UX, and artificial intelligence.
-
-- 📚 **Currently studying:** Bachelor of Science in Computer Science Major in Artificial Intelligence at West Visayas State University
-- 💻 **Skills:** HTML, CSS, C++
-- 🌱 **Currently** [working on our paper](https://github.com/svbangcaya/FeasTapp1)
-- ⚡ **Hobbies:** eating, and admiring fictional men
-
-- 🌀 **Facts about me:** 
-  - A big fan of music and listen 24/7 with my wired earphones.
-  - Amazed when surrounded by creativity and arts.
-  - Craving for peace of mind and contentment.
-
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| [FeasTapp](https://github.com/svbangcaya/FeasTapp1) | An innovative web application that scans ingredients on a table and uses generative AI to recommend dishes. Combines object detection for ingredient identification with the Gemini model for recipe recommendations. |
-| Concentro | A productivity app designed to help with focus by blocking distractions. Features include a focus timer, distraction blocker, and more. |
-| MealMaven | A recipe recommendation chatbot that uses NLP methods and the Gemini model for enhanced recommendations. Allows users to choose a cuisine, input ingredients, and receive detailed dish suggestions. |
-| [Mindful Eating Guide Recommendation](https://mindful-eating-guide-recommendation-h3uwhhjmtswz25dcidah2l.streamlit.app/#mindful-eating-guide-recommendation) | An app designed to provide users with a guide to mindful eating, integrating various recommendations and practices for healthier eating habits. |
-
-## Languages and Tools
-
-<p align="left"> 
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> 
-  </a>
-  <a href="https://spline.design/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Spline_Logo.svg" alt="Spline" width="40" height="40"/> 
-  </a>
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Canva_Logo.svg" alt="Canva" width="40" height="40"/> 
-  </a>
-</p>
-
-## Get in Touch
-
-- 📧 **Email:** samantha.bangcaya09@gmail.com
-- 📘 **Facebook:** [Samantha Bangcaya](https://www.facebook.com/profile.php?id=100071719083338)
-- 💼 **LinkedIn:** [Samantha Bangcaya](https://www.linkedin.com/in/samantha-bangcaya-178805280/)
-
-## GitHub Stats
-
-![Samantha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svbangcaya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svbangcaya&layout=compact&theme=radical)
-
-## GitHub Contributions
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=svbangcaya&theme=radical)](https://git.io/streak-stats)
+### Quick Facts  
+- 🎓 **Currently Studying:** AI-focused CS at WVSU  
+- 💻 **Skills:** HTML, CSS, C++  
+- 🌱 **Current Project:** [FeasTapp](https://github.com/svbangcaya/FeasTapp1)  
+- 🎵 **Hobbies:** Listening to music (all day, every day) 🎧, admiring art, and enjoying peace of mind.  
+- 🎨 **Creative Spark:** Thrives in creative and artistic environments.  
 
 ---
 
-**_Maraming salamat_ for visiting my profile! Feel free to reach out or collaborate on projects. Let’s create something amazing together!** 🌟
+## Projects  
+
+| **Project**                                                                                                           | **Description**                                                                                                                                                                                                                     | **Awards**                         |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| [FeasTapp](https://github.com/svbangcaya/FeasTapp1)                                                                   | A web app that scans table ingredients and uses generative AI to recommend dishes. Powered by object detection and Gemini AI for smart recipes.                                                                                      |                                    |
+| **Concentro**                                                                                                         | A productivity app that helps users focus by blocking distractions. Features a timer, distraction blocker, and more.                                                                                                                |                                    |
+| **MealMaven**                                                                                                         | A recipe recommendation chatbot utilizing NLP and Gemini AI to provide detailed dish suggestions based on user preferences.                                                                                                         |                                    |
+| [**Mindful Eating Guide**](https://mindful-eating-guide-recommendation-h3uwhhjmtswz25dcidah2l.streamlit.app/#mindful-eating-guide-recommendation) | An app designed to promote healthier eating habits through mindful practices and curated recommendations.                                                                                                                           |                                    |
+| **CharGee**                                                                                                           | A solar panel tracking system designed to charge phones efficiently while being powered by the sun. Includes a coin slot for users to pay for charging. This eco-friendly solution combines sustainability and convenience.           | 🏆 Best in Pitching & Presentation |
+
+---
+
+## Tech Stack & Tools  
+I enjoy working with these technologies to bring ideas to life:  
+
+<p align="left">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Spline_Logo.svg" alt="Spline" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Canva_Logo.svg" alt="Canva" width="40" height="40"/>  
+</p>  
+
+---
+
+## Get in Touch  
+Let’s connect and collaborate on exciting projects!  
+
+- 📧 **Email:** samantha.bangcaya09@gmail.com  
+- 🌐 **Facebook:** [Samantha Bangcaya](https://www.facebook.com/profile.php?id=100071719083338)  
+- 💼 **LinkedIn:** [Samantha Bangcaya](https://www.linkedin.com/in/samantha-bangcaya-178805280/)  
+
+---
+
+## GitHub Highlights  
+
+**Stats:**  
+![Samantha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svbangcaya&show_icons=true&theme=tokyonight)  
+
+**Languages:**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svbangcaya&layout=compact&theme=tokyonight)  
+
+**Contributions:**  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=svbangcaya&theme=tokyonight)](https://git.io/streak-stats)  
+
+---
+
+**_Maraming Salamat!_** Thank you for visiting my profile! Let’s create something meaningful together. 🌟
