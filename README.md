@@ -1,7 +1,7 @@
 # 🌟 _Mabuhay!_ I'm Samantha V. Bangcaya 👋  
 
 ## About Me  
-Hi there! I'm **Sam**, a passionate developer and student pursuing a Bachelor of Science in Computer Science (Major in Artificial Intelligence) at [West Visayas State University](https://www.wvsu.edu.ph/). I’m enthusiastic about web development, design, UI/UX, and exploring the exciting world of artificial intelligence.
+Hi there! I'm **Sam**, a passionate developer and student pursuing a Bachelor of Science in _Computer Science (Major in Artificial Intelligence)_ at [West Visayas State University](https://www.wvsu.edu.ph/). I’m enthusiastic about web development, design, UI/UX, and exploring the exciting world of artificial intelligence.
 
 ### Quick Facts  
 - 🎓 **Currently Studying:** AI-focused CS at WVSU  
@@ -32,8 +32,6 @@ I enjoy working with these technologies to bring ideas to life:
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Spline_Logo.svg" alt="Spline" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Canva_Logo.svg" alt="Canva" width="40" height="40"/>  
 </p>  
 
 ---
@@ -43,7 +41,7 @@ Let’s connect and collaborate on exciting projects!
 
 - 📧 **Email:** samantha.bangcaya09@gmail.com  
 - 🌐 **Facebook:** [Samantha Bangcaya](https://www.facebook.com/profile.php?id=100071719083338)  
-- 💼 **LinkedIn:** [Samantha Bangcaya](https://www.linkedin.com/in/samantha-bangcaya-178805280/)  
+- 💼 **LinkedIn:** [Samantha Bangcaya](https://www.linkedin.com/in/samanthabangcaya/)  
 
 ---
 
@@ -54,9 +52,6 @@ Let’s connect and collaborate on exciting projects!
 
 **Languages:**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svbangcaya&layout=compact&theme=tokyonight)  
-
-**Contributions:**  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=svbangcaya&theme=tokyonight)](https://git.io/streak-stats)  
 
 ---
 
