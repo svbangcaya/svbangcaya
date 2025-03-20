@@ -4,24 +4,22 @@
 Hey there! I’m **Sam**, a tech enthusiast and creative thinker pursuing a **B.S. in Computer Science (AI Major)** at [West Visayas State University](https://www.wvsu.edu.ph/). I’m passionate about **web development, UI/UX, and artificial intelligence**, always eager to explore new ideas and bring them to life.  
 
 ### Quick Facts  
-- 💻 **Tech Stack:** Python, C++, JavaScript, HTML, CSS  
-- 🚀 **Current Project:** [FeasTapp](https://github.com/svbangcaya/FeasTapp1) – AI-powered ingredient scanner & recipe assistant  
-- 🏃‍♀️ **Beyond Code:** Track & Field (100m, 200m), Discus Throw, Taekwondo, Softball  
-- 🎧 **Hobbies:** Music lover, art admirer, and a sucker for great stories  
+💻 **Tech Stack:** Python, C++, JavaScript, HTML, CSS  
+🚀 **Current Project:** [FeasTapp](https://github.com/svbangcaya/FeasTapp1) – AI-powered ingredient scanner & recipe assistant  
+🏃‍♀️ **Beyond Code:** Track & Field (100m, 200m), Discus Throw, Taekwondo, Softball  
+🎷 **Hobbies:** Music lover, art admirer, and a sucker for fictional stories  
 
 ---
 
 ## Featured Projects  
 
-🔹 **[FeasTapp](https://github.com/svbangcaya/FeasTapp1)** – AI-powered web app that identifies ingredients and suggests recipes based on what’s available.  
-
-🔹 **Concentro** – A productivity-focused app that helps users block distractions and stay on track with a built-in focus timer.  
-
-🔹 **MealMaven** – Smart chatbot utilizing NLP and AI to recommend recipes tailored to user preferences.  
-
-🔹 **[Mindful Eating Guide](https://mindful-eating-guide-recommendation-h3uwhhjmtswz25dcidah2l.streamlit.app/#mindful-eating-guide-recommendation)** – A digital guide promoting healthier eating habits through mindful recommendations.  
-
-🔹 **CharGee** – Solar-powered phone charging station with a built-in coin slot for convenience and sustainability.  
+| **Project** | **Description** |
+|------------|----------------|
+| [**FeasTapp**](https://github.com/svbangcaya/FeasTapp1) | AI-powered web app that identifies ingredients and suggests recipes based on what’s available. |
+| **Concentro** | A productivity-focused app that helps users block distractions and stay on track with a built-in focus timer. |
+| **MealMaven** | Smart chatbot utilizing NLP and AI to recommend recipes tailored to user preferences. |
+| [**Mindful Eating Guide**](https://mindful-eating-guide-recommendation-h3uwhhjmtswz25dcidah2l.streamlit.app/#mindful-eating-guide-recommendation) | A digital guide promoting healthier eating habits through mindful recommendations. |
+| **CharGee** | Solar-powered phone charging station with a built-in coin slot for convenience and sustainability. |
 
 ---
 
@@ -47,7 +45,7 @@ Want to collaborate or just say hi? Let’s connect!
 
 📧 **Email:** samantha.bangcaya09@gmail.com  
 🌐 **Facebook:** [Samantha Bangcaya](https://www.facebook.com/profile.php?id=100071719083338)  
-💼 **LinkedIn:** [Samantha Bangcaya](https://www.linkedin.com/in/samanthabangcaya/)  
+🎓 **LinkedIn:** [Samantha Bangcaya](https://www.linkedin.com/in/samanthabangcaya/)  
 
 ---
 
