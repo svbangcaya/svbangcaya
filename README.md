@@ -1,58 +1,61 @@
 # 🌟 _Mabuhay!_ I'm Samantha V. Bangcaya 👋  
 
 ## About Me  
-Hi there! I'm **Sam**, a passionate developer and student pursuing a Bachelor of Science in Computer Science _(Major in Artificial Intelligence)_ at [West Visayas State University](https://www.wvsu.edu.ph/). I’m enthusiastic about web development, design, UI/UX, and exploring the exciting world of artificial intelligence.
+Hey there! I’m **Sam**, a tech enthusiast and creative thinker pursuing a **B.S. in Computer Science (AI Major)** at [West Visayas State University](https://www.wvsu.edu.ph/). I’m passionate about **web development, UI/UX, and artificial intelligence**, always eager to explore new ideas and bring them to life.  
 
 ### Quick Facts  
-- 💻 **Skills:** Python, C++, HTML, CSS
-- 🌱 **Current Project:** [FeasTapp](https://github.com/svbangcaya/FeasTapp1)
-- 🏃‍♀️ **Sports Outside Tech:**  Track and Field (100m and 200m dash), Discuss Throw, Taekwondo, Softball  
-- 🎵 **Hobbies:** Listening to music (all day, every day) 🎧, admiring art, and getting lost in fictional stories.  
-- 🎨 **Creative Spark:** Thrives in creative and artistic environments.
+- 💻 **Tech Stack:** Python, C++, JavaScript, HTML, CSS  
+- 🚀 **Current Project:** [FeasTapp](https://github.com/svbangcaya/FeasTapp1) – AI-powered ingredient scanner & recipe assistant  
+- 🏃‍♀️ **Beyond Code:** Track & Field (100m, 200m), Discus Throw, Taekwondo, Softball  
+- 🎧 **Hobbies:** Music lover, art admirer, and a sucker for great stories  
 
 ---
 
-## Projects  
+## Featured Projects  
 
-| **Project**                                                                                                           | **Description**                                                                                                                                                                                                                     | **Awards**                         |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| [FeasTapp](https://github.com/svbangcaya/FeasTapp1)                                                                   | A web app that scans table ingredients and uses generative AI to recommend dishes. Powered by object detection and Gemini AI for smart recipes.                                                                                      |                                    |
-| **Concentro**                                                                                                         | A productivity app that helps users focus by blocking distractions. Features a timer, distraction blocker, and more.                                                                                                                |                                    |
-| **MealMaven**                                                                                                         | A recipe recommendation chatbot utilizing NLP and Gemini AI to provide detailed dish suggestions based on user preferences.                                                                                                         |                                    |
-| [**Mindful Eating Guide**](https://mindful-eating-guide-recommendation-h3uwhhjmtswz25dcidah2l.streamlit.app/#mindful-eating-guide-recommendation) | An app designed to promote healthier eating habits through mindful practices and curated recommendations.                                                                                                                           |                                    |
-| **CharGee**                                                                                                           | A solar panel tracking system designed to charge phones efficiently while being powered by the sun. Includes a coin slot for users to pay for charging. This eco-friendly solution combines sustainability and convenience.           | 🏆 Best in Pitching & Presentation |
+🔹 **[FeasTapp](https://github.com/svbangcaya/FeasTapp1)** – AI-powered web app that identifies ingredients and suggests recipes based on what’s available.  
+
+🔹 **Concentro** – A productivity-focused app that helps users block distractions and stay on track with a built-in focus timer.  
+
+🔹 **MealMaven** – Smart chatbot utilizing NLP and AI to recommend recipes tailored to user preferences.  
+
+🔹 **[Mindful Eating Guide](https://mindful-eating-guide-recommendation-h3uwhhjmtswz25dcidah2l.streamlit.app/#mindful-eating-guide-recommendation)** – A digital guide promoting healthier eating habits through mindful recommendations.  
+
+🔹 **CharGee** – Solar-powered phone charging station with a built-in coin slot for convenience and sustainability.  
 
 ---
 
-## Tech Stack & Tools  
-I enjoy working with these technologies to bring ideas to life:  
+## Languages & Tools I Have Placed My Hands On  
 
 <p align="left">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>  
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>  
 </p>  
 
 ---
 
-## Get in Touch  
-Let’s connect and collaborate on exciting projects!  
+## Connect With Me  
+Want to collaborate or just say hi? Let’s connect!  
 
-- 📧 **Email:** samantha.bangcaya09@gmail.com  
-- 🌐 **Facebook:** [Samantha Bangcaya](https://www.facebook.com/profile.php?id=100071719083338)  
-- 💼 **LinkedIn:** [Samantha Bangcaya](https://www.linkedin.com/in/samanthabangcaya/)  
+📧 **Email:** samantha.bangcaya09@gmail.com  
+🌐 **Facebook:** [Samantha Bangcaya](https://www.facebook.com/profile.php?id=100071719083338)  
+💼 **LinkedIn:** [Samantha Bangcaya](https://www.linkedin.com/in/samanthabangcaya/)  
 
 ---
 
-## GitHub Highlights  
+## GitHub Insights  
 
-**Stats:**  
 ![Samantha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svbangcaya&show_icons=true&theme=tokyonight)  
-
-**Languages:**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svbangcaya&layout=compact&theme=tokyonight)  
 
 ---
 
-**_Maraming Salamat!_** Thank you for visiting my profile! Let’s create something meaningful together. 🌟
+✨ _Maraming Salamat!_ Thanks for stopping by—let’s build something awesome together! 🚀
